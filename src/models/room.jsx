@@ -13,7 +13,7 @@ export function Model(props) {
           geometry={nodes.Object_2.geometry}
           material={materials.lambert2SG}
         />
-       
+    
         <mesh
           castShadow
           receiveShadow
